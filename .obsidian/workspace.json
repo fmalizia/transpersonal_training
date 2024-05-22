@@ -11,11 +11,9 @@
             "id": "6b8338cceb56e989",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
+                "file": "ROST.excalidraw"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "ROST.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "ROST.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "ROST.excalidraw"
               }
             }
           }
@@ -148,12 +146,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b8338cceb56e989",
+  "active": "2ee3f828dcf3ef79",
   "lastOpenFiles": [
+    "Cognitive Behavioral approach (Jure Biechonski).md",
+    "ROST.excalidraw",
     "Home.md",
     "Excalidraw/Drawing 2024-04-05 12.14.49.excalidraw.md",
     "Excalidraw",
-    "Cognitive Behavioral approach (Jure Biechonski).md",
     "Overview over different psychotherapeutic approaches (Jure Biechonski).md",
     "Humanistic approach (Jure Biechonski).md",
     "Hero’s Journey (Kati Wortelkamp, Lyudmila Skartsesku).md"
